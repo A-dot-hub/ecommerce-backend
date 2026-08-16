@@ -2,7 +2,7 @@
 
 A production-style Node.js backend for an e-commerce platform. This project serves as the foundational architecture for managing users, products, authentication, and orders.
 
-## ✅ Project Acceptance Criteria Met
+## ✅ Project Characteristic
 
 - **Clean MVC Folder Structure:** The codebase is strictly organized into Models, Views (represented by frontend JSON responses), and Controllers, ensuring scalability and separation of concerns.
 - **Environment Variables:** All sensitive data (MongoDB URI, JWT Secrets, Ports) are completely isolated from the source code using `dotenv`.
